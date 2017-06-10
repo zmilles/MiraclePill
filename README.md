@@ -1,4 +1,4 @@
 # MiraclePill
-Basic App that allows users to fill out information and submit a request
+A basic app that allows users to fill out information and submit a request
 
 
